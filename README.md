@@ -10,6 +10,6 @@ Built on: Unity Platform
 * Player: Code of Player's position, scale, size and movements
 * Items: Code of "Food" of player's, rate of appearance, position of appearances
 * Movement: Code of Player's interactions with items
-* Illustration: Art used in the game 
+* Illustration: Art curated for the game 
 
 
