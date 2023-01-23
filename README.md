@@ -7,10 +7,10 @@ Language used: C#
 Built on: Unity Platform
 
 # Files: 
-* player: Code of Main Player's position, scale, size and movements
-* items: Code of "Food" of player's, rate of appearance, position of appearances
-* movement: Code of player's interactions with items
-* score: Code of HealthBar and score gained by player
+* Player: Code of Main Player's position, scale, size and movements
+* Items: Code of "Food" of player's, rate of appearance, position of appearances
+* Movement: Code of player's interactions with items
+* Score: Code of HealthBar and score gained by player
 * drawings: Art curated for the game 
 
 
